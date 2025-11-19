@@ -1,6 +1,7 @@
 {
-  "name": "TechWizard \u2014 Troubleshooting Assistant",
-  "short_name": "TechWizard",
+  "name": "TechNinja — Troubleshooting Assistant",
+  "short_name": "TechNinja",
+
   "start_url": "./"
   "display": "standalone",
   "background_color": "#020617",
