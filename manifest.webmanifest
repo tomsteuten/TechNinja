@@ -1,7 +1,7 @@
 {
   "name": "TechWizard \u2014 Troubleshooting Assistant",
   "short_name": "TechWizard",
-  "start_url": "index.html",
+  "start_url": "./"
   "display": "standalone",
   "background_color": "#020617",
   "theme_color": "#020617",
