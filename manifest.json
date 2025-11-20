@@ -1,7 +1,7 @@
 {
   "name": "TechNinja \u2014 Troubleshooting Assistant",
-  "short_name": "TechNinja",
-  "start_url": "/TechNinja/",
+  "short_name": "techninja",
+  "start_url": "/techninja/",
   "display": "standalone",
   "background_color": "#020617",
   "theme_color": "#020617",
